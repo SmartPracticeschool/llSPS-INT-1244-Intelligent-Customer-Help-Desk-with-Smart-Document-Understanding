@@ -1,0 +1,6 @@
+﻿
+Intelligent Coustomer Help Desk
+Project Scope:
+                        In this we need to create a website first using HTML code. Next we should creat a cbatbot with help of IBM Watson Assistant and Watson discovery. Using Node-Red we need to build a web application which integrates all services and deploy the same on IBM cloud. This project will answers all queries of the user and any question falls outside the of scope of the predetermined question set then this project will use the Smart Document Understanding feature of Watson Discovery to train it on what text in the owners manual is important and what is not. This will improve the answers returned from the queries.
+
+
